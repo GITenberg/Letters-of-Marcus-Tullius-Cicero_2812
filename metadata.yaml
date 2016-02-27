@@ -1,0 +1,39 @@
+_repo: Letters-of-Marcus-Tullius-Cicero_2812
+contributor:
+  translator:
+    agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
+    aliases:
+    - Shuckburgh, E. S. (Evelyn Shirley)
+    - Shuckburgh, Evelyn Shirley
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '1033'
+    url: http://www.gutenberg.org/2009/agents/1033
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcc 'AC'
+- !lcsh 'Cicero, Marcus Tullius -- Correspondence'
+- !lcsh 'Statesmen -- Rome -- Correspondence'
+- !lcsh 'Authors, Latin -- Correspondence'
+title: Letters of Marcus Tullius Cicero
+url: http://www.gutenberg.org/ebooks/2812
