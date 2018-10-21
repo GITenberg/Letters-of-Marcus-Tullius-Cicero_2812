@@ -1,5 +1,5 @@
 _repo: Letters-of-Marcus-Tullius-Cicero_2812
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'Cicero, Marcus Tullius -- Correspondence'
 - !lcsh 'Statesmen -- Rome -- Correspondence'
 - !lcsh 'Authors, Latin -- Correspondence'
+- GITenberg
 title: Letters of Marcus Tullius Cicero
 url: http://www.gutenberg.org/ebooks/2812
